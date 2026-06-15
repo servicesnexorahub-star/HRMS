@@ -1,0 +1,6 @@
+{
+  "name": "Human Resource Management System",
+  "description": "An enterprise-grade Human Resource Management System (HRMS) featuring Employee Management, Attendance, Leave workflows, Indian Compliance Payroll, Performance Management, Employee Self-Service, and interactive analytics dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
